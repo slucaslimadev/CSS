@@ -16,3 +16,37 @@ h4 {
     font-size: 30px;
     color: green;
 }
+h1 {
+    border-bottom: 3px solid pink;
+    color: pink;
+}
+.classe_titulo {
+    border-bottom: 3px solid red;
+    color: red;
+}
+
+#titulo {
+    border-bottom: 3px solid green;
+    color: blue;
+}
+.color-name {
+    color: dodgerblue;
+}
+.hex-color {
+    color: #00b398;
+}
+.rgb {
+    color: rgba(255, 0, 0, 0.24);
+}
+.HSL {
+    color: hsl(20, 0%, 0%);
+    font-size: 30px;
+}
+.bg {
+    background-color: #000;
+    color: #09da09;
+}
+.bg2 {
+    background-color: #09da09;
+    color: white;
+}
