@@ -5,3 +5,14 @@ body {
 h4 {
     color: brown;
 }
+.paragrafos {
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+
+#descricao {
+    background-color: pink;
+    font-size: 30px;
+    color: green;
+}
