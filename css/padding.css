@@ -1,0 +1,38 @@
+.padding-width {
+    background-color: #444;
+    color: #fff;
+    width: 400px;
+    padding: 20px;
+
+}
+.border-box {
+    background-color: black;
+    color: #fff;
+    width: 400px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.border {
+    border: 5px solid pink;
+    padding: 10px;
+}
+.border-2 {
+    border: 2px dotted greenyellow;
+    padding: 10px;
+}
+.border-3 {
+    border-top: 5px solid red;
+    background-color: #444;
+
+}
+.border-radius {
+    background-color: black;
+    color: greenyellow;
+    border-radius: 10px;
+    padding: 15px;
+}
+.margin {
+    margin-left: 15px;
+    background-color: aqua;
+
+}
